@@ -1,0 +1,11 @@
+Model Information:
+* title:	London Financial District
+* source:	https://sketchfab.com/3d-models/london-financial-district-74cc9216f2c24efa96fe2554897e5966
+* author:	FUD-UJEP (https://sketchfab.com/FUD-UJEP)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "London Financial District" (https://sketchfab.com/3d-models/london-financial-district-74cc9216f2c24efa96fe2554897e5966) by FUD-UJEP (https://sketchfab.com/FUD-UJEP) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
