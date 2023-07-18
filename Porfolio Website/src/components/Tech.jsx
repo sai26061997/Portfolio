@@ -1,7 +1,7 @@
 import React from 'react'
 import {BallCanvas} from "./canvas";
 import { technologies } from '../constants';
-import {SecationWrapper} from "../hoc"
+import {SectionWrapper} from "../hoc"
 
 const Tech = () => {
   return (
@@ -16,4 +16,4 @@ const Tech = () => {
   )
 }
 
-export default SecationWrapper(Tech,"tech")
+export default SectionWrapper(Tech,"tech")

@@ -19,7 +19,8 @@ const ExperienceCard=({experience})=>(
   iconStyle={{background:experience.iconBg}}
   icon={<div className='flex items-center justify-center w-full h-full'>
     <img src={experience.icon} alt={experience.company_name}
-    className='w-[60%] h-[60%] object-contain'/>
+      
+      />
   </div>}
   >
     <div>
@@ -34,8 +35,9 @@ const ExperienceCard=({experience})=>(
         {point}
       </li>
     ))}
-    </ul>
-  </VerticalTimelineElement>
+    </ul> 
+
+    </VerticalTimelineElement>
 )
 
 const Experience = () => {
